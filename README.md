@@ -8,8 +8,8 @@ When I'm not at work, I'm building low-code products or AI tools I can use for m
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| Fairsplit | an app that helps couples split shared expenses fairly | Zite |
-| AI Builder Toolkit| A curated library of prompts, skills, tools and templates made for AI native work | Claude |
+| Fifty | an app that helps couples split shared expenses fairly | Claude Code + Stitch + Claude Design |
+| AI Toolkit| A curated library of prompts, skills, tools and templates made for AI native work | Claude |
 
 ## Connect
 💼 [LinkedIn](https://www.linkedin.com/in/maxime-diverres/)
